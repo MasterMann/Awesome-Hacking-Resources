@@ -41,7 +41,7 @@ Name  |  Description
 [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) | academic content, full semester course, includes assigned readings, homework and github refs for exploit examples. NO VIDEO LECTURES.
 [Cybrary](https://www.cybrary.it/) | coursera style website, lots of user-contributed content, account required, content can be filtered by experience level
 [Free cyber security training](https://www.samsclass.info/) | Academic content, 8 full courses with videos from a quirky instructor sam, links to research, defcon materials and other recommended training/learning
-[Free interactive labs with White Hat Academy](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials
+[Interactive labs with White Hat Academy](https://ex.whitehat.academy) | 32 labs, easy account sign in with github credentials; this is no longer free content
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
 [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) | blog-style instruction, includes: slides, videos, homework, discussion. No login required.
 [Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
@@ -80,7 +80,7 @@ Name  |  Description
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
 | <td colspan="2"> **Conferences** </td>
 [44contv](https://www.youtube.com/user/44contv) | in
-[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineerinformation security con based in London, lengthy instructional videos
+[MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science) |Information security con based in London, lengthy instructional videos
 [BruCON Security Conference](https://www.youtube.com/channel/UCqwMU1l90lf9BLersW6eAHw) | security and hacker conference based in b\Belgium, lots of lengthy instructinoal videos
 [BSides Manchester](https://www.youtube.com/channel/UC1mLiimOTqZFK98VwM8Ke4w) | security and hacker con based in Mancheseter, lots of lengthy videos
 [BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA) | security con based in Augusta, Georgia, lots of lengthy instructional videos
@@ -199,7 +199,7 @@ Name    |    Description
 [Stereotyped Challenges](https://chall.stypr.com/) | Challenges for web security professionals, account required.
 [Stripe CTF 2.0](https://github.com/stripe-ctf) | Past security contest where you can discover and exploit vulnerabilities in mock web applications.
 [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers
+[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for begginers
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -317,6 +317,7 @@ Name    |    Description
 ----    |    ----
 [0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
 [Antichat](https://forum.antichat.ru/) | russian based forum
+[CODEBY.NET](https://codeby.net/) | hacker, WAPT, malware, computer engineering, Reverse engineering, forensics - russian based forum
 [EAST Exploit database](http://eastexploits.com/) | exploit DB for commercial exploits written for EAST Pentest Framework
 [Greysec](https://greysec.net) | hacking and security forum
 [Hackforums](https://hackforums.net/) | posting webstite for hacks/exploits/various discussion
